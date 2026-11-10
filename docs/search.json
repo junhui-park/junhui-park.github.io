@@ -14,25 +14,32 @@
     "text": "Research question: How did emphasis on environmental protection in election manifestos vary across selected party families and countries between 1940 and 2020?\nData: - Manifesto Project dataset - Outcome: per501 (the percentage of manifesto quasi-sentence coded as Environmental Protection) - Sample: 495 manifesto observations\nMethods: - Descriptive comparisons across countries and party families - Time-series visualisations by country and party family\nScope: - Countries: Austria, France, Germany, the Netherlands, and Switzerland - Period: election years from 1940 to 2020 - Party families: ECO, SOC, CHR, LIB, and NAT - Descriptive and exploratory analysis; no causal inference\nRead the research note -&gt;"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Junhui Park | Research Portfolio",
+    "objectID": "manifesto.html",
+    "href": "manifesto.html",
+    "title": "Environmental protection in party manifestos",
     "section": "",
-    "text": "I’m Junhui Park, currently completing an MA in Sociology – European Societies at Freie Universität Berlin.\nI have over six years of experience in environmental policy and international cooperation at the Korea Environment Institute (KEI) and the United Nations Environment Programme (UNEP). My experience spans policy research, intergovernmental processes, and international project coordination.\nHere, I share my empirical research notes, data analysis projects, and reading notes.\n\nCV LinkedIn GitHub\n\n\n\n\nMy research centres on a key question: How can ambitious climate policy become and remain politically feasible?\nI am particularly interested in how civic engagement can strengthen democratic responsiveness in climate policymaking.\nAreas of interest: Political sociology; climate politics; democratic and electoral responsiveness; party politics; participatory democracy; civic engagement.\n\n\n\n\nQuantitative analysis in R, including dictionary-based text analysis, regression analysis, and multilevel modelling.\nQualitative framing analysis.\n\n\n\nExplore my research →"
+    "text": "Climate change has become one of the most contested political issues in Western Europe. This project examines how emphasis on environmental protection in party manifestos varies across five countries (Austria, France, Germany, the Netherlands, and Switzerland) and selected party families, using the Manifesto Project dataset obtained from the WZB Berlin Social Science Center (https://manifesto-project.wzb.eu). This analysis focuses on per501 (Environmental Protection), a category in domain 5 (Welfare and Quality of Life) of the dataset."
   },
   {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Junhui Park | Research Portfolio",
-    "section": "",
-    "text": "My research centres on a key question: How can ambitious climate policy become and remain politically feasible?\nI am particularly interested in how civic engagement can strengthen democratic responsiveness in climate policymaking.\nAreas of interest: Political sociology; climate politics; democratic and electoral responsiveness; party politics; participatory democracy; civic engagement."
+    "objectID": "manifesto.html#coverage-across-countries-party-families-and-decades",
+    "href": "manifesto.html#coverage-across-countries-party-families-and-decades",
+    "title": "Environmental protection in party manifestos",
+    "section": "5.1 Coverage across countries, party families, and decades",
+    "text": "5.1 Coverage across countries, party families, and decades\nSome country–party-family combinations have no manifesto observations in particular decades. These are gaps in the selected sample; they should not be interpreted as per501 scores of zero.\n\nCHR\n\nFrance: no selected manifesto observations from the 1980s onward.\n\n\n\nECO\n\nAustria: no selected manifesto observations from the 1940s through the 1970s.\nFrance: no selected manifesto observations from the 1940s through the 1980s.\nGermany: no selected manifesto observations from the 1940s through the 1970s.\nThe Netherlands: no selected manifesto observations from the 1940s through the 1970s.\nSwitzerland: no selected manifesto observations from the 1940s through the 1960s.\n\n\n\nLIB\n\nAustria: no selected manifesto observations from the 1940s through the 1960s, or in the 2000s.\nFrance: no selected manifesto observations from the 1970s through the 2000s.\n\n\n\nNAT\n\nFrance: no selected manifesto observations from the 1940s through the 1970s.\nGermany: no selected manifesto observations from the 1950s through the 2000s.\nThe Netherlands: no selected manifesto observations from the 1940s through the 1970s."
   },
   {
-    "objectID": "index.html#methods-and-tools",
-    "href": "index.html#methods-and-tools",
-    "title": "Junhui Park | Research Portfolio",
-    "section": "",
-    "text": "Quantitative analysis in R, including dictionary-based text analysis, regression analysis, and multilevel modelling.\nQualitative framing analysis."
+    "objectID": "manifesto.html#observations-with-a-zero-per501-score",
+    "href": "manifesto.html#observations-with-a-zero-per501-score",
+    "title": "Environmental protection in party manifestos",
+    "section": "5.2 Observations with a zero per501 score",
+    "text": "5.2 Observations with a zero per501 score\nOf the 495 selected manifesto observations, 96 have a per501 score of zero (19.4%). A zero indicates that no quasi-sentences in that manifesto were coded under per501, Environmental Protection. It is a recorded score and is distinct from a decade or country–party-family combination with no selected manifesto observation. These descriptive data show where zero scores occur but do not establish why a party manifesto contains no quasi-sentences coded under this category."
+  },
+  {
+    "objectID": "manifesto.html#variation-across-party-families-and-over-time",
+    "href": "manifesto.html#variation-across-party-families-and-over-time",
+    "title": "Environmental protection in party manifestos",
+    "section": "5.3 Variation across party families and over time",
+    "text": "5.3 Variation across party families and over time\nAcross the selected observations, ECO has the highest reported aggregate mean per501 score (14.59). The reported means for the other party families are lower: CHR (4.62), SOC (4.03), NAT (3.64), and LIB (3.46). Each aggregate is the simple average of the observed country-specific means for that family, so each included country receives equal weight. These averages do not account for differences over time and should be read alongside the country-by-family time-series panels.\nThe panels show a broadly similar pattern over time for CHR, LIB, and SOC outside France, although the trajectories are not identical across countries. Several party-family series rise during the 1990s, particularly CHR, ECO, and SOC in Austria and Germany; a comparable increase is not apparent in NAT. The size and timing of changes vary by country and family.\nThe Swiss CHR and ECO series also appear to differ from the corresponding patterns in other countries. The direction and timing of these changes vary within the period, rather than forming one uniform trajectory."
   },
   {
     "objectID": "about.html",
@@ -63,31 +70,38 @@
     "text": "quantitative analysis in R, including dictionary-based text analysis, regression analysis and multilevel modelling.\nqualitative framing analysis."
   },
   {
-    "objectID": "manifesto.html",
-    "href": "manifesto.html",
-    "title": "Environmental protection in party manifestos",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Junhui Park | Research Portfolio",
     "section": "",
-    "text": "Climate change has become one of the most contested political issues in Western Europe. This project examines how emphasis on environmental protection in party manifestos varies across five countries (Austria, France, Germany, the Netherlands, and Switzerland) and selected party families, using the Manifesto Project dataset obtained from the WZB Berlin Social Science Center (https://manifesto-project.wzb.eu). This analysis focuses on per501 (Environmental Protection), a category in domain 5 (Welfare and Quality of Life) of the dataset."
+    "text": "I’m Junhui Park, currently completing an MA in Sociology – European Societies at Freie Universität Berlin.\nI have over six years of experience in environmental policy and international cooperation at the Korea Environment Institute (KEI) and the United Nations Environment Programme (UNEP). My experience spans policy research, intergovernmental processes, and international project coordination.\nHere, I share my empirical research notes, data analysis projects, and reading notes.\n\nCV LinkedIn GitHub\n\n\n\n\nMy research centres on a key question: How can ambitious climate policy become and remain politically feasible?\nI am particularly interested in how civic engagement can strengthen democratic responsiveness in climate policymaking.\nAreas of interest: Political sociology; climate politics; democratic and electoral responsiveness; party politics; participatory democracy; civic engagement.\n\n\n\n\nQuantitative analysis in R, including dictionary-based text analysis, regression analysis, and multilevel modelling.\nQualitative framing analysis.\n\n\n\nExplore my research →"
   },
   {
-    "objectID": "manifesto.html#coverage-across-countries-party-families-and-decades",
-    "href": "manifesto.html#coverage-across-countries-party-families-and-decades",
-    "title": "Environmental protection in party manifestos",
-    "section": "5.1 Coverage across countries, party families, and decades",
-    "text": "5.1 Coverage across countries, party families, and decades\nSome country–party-family combinations have no manifesto observations in particular decades. These are gaps in the selected sample; they should not be interpreted as per501 scores of zero.\n\nCHR\n\nFrance: no selected manifesto observations from the 1980s onward.\n\n\n\nECO\n\nAustria: no selected manifesto observations from the 1940s through the 1970s.\nFrance: no selected manifesto observations from the 1940s through the 1980s.\nGermany: no selected manifesto observations from the 1940s through the 1970s.\nThe Netherlands: no selected manifesto observations from the 1940s through the 1970s.\nSwitzerland: no selected manifesto observations from the 1940s through the 1960s.\n\n\n\nLIB\n\nAustria: no selected manifesto observations from the 1940s through the 1960s, or in the 2000s.\nFrance: no selected manifesto observations from the 1970s through the 2000s.\n\n\n\nNAT\n\nFrance: no selected manifesto observations from the 1940s through the 1970s.\nGermany: no selected manifesto observations from the 1950s through the 2000s.\nThe Netherlands: no selected manifesto observations from the 1940s through the 1970s."
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Junhui Park | Research Portfolio",
+    "section": "",
+    "text": "My research centres on a key question: How can ambitious climate policy become and remain politically feasible?\nI am particularly interested in how civic engagement can strengthen democratic responsiveness in climate policymaking.\nAreas of interest: Political sociology; climate politics; democratic and electoral responsiveness; party politics; participatory democracy; civic engagement."
   },
   {
-    "objectID": "manifesto.html#observations-with-a-zero-per501-score",
-    "href": "manifesto.html#observations-with-a-zero-per501-score",
-    "title": "Environmental protection in party manifestos",
-    "section": "5.2 Observations with a zero per501 score",
-    "text": "5.2 Observations with a zero per501 score\nOf the 495 selected manifesto observations, 96 have a per501 score of zero (19.4%). A zero indicates that no quasi-sentences in that manifesto were coded under per501, Environmental Protection. It is a recorded score and is distinct from a decade or country–party-family combination with no selected manifesto observation. These descriptive data show where zero scores occur but do not establish why a party manifesto contains no quasi-sentences coded under this category."
+    "objectID": "index.html#methods-and-tools",
+    "href": "index.html#methods-and-tools",
+    "title": "Junhui Park | Research Portfolio",
+    "section": "",
+    "text": "Quantitative analysis in R, including dictionary-based text analysis, regression analysis, and multilevel modelling.\nQualitative framing analysis."
   },
   {
-    "objectID": "manifesto.html#variation-across-party-families-and-over-time",
-    "href": "manifesto.html#variation-across-party-families-and-over-time",
-    "title": "Environmental protection in party manifestos",
-    "section": "5.3 Variation across party families and over time",
-    "text": "5.3 Variation across party families and over time\nAcross the selected observations, ECO has the highest reported aggregate mean per501 score (14.59). The reported means for the other party families are lower: CHR (4.62), SOC (4.03), NAT (3.64), and LIB (3.46). Each aggregate is the simple average of the observed country-specific means for that family, so each included country receives equal weight. These averages do not account for differences over time and should be read alongside the country-by-family time-series panels.\nThe panels show a broadly similar pattern over time for CHR, LIB, and SOC outside France, although the trajectories are not identical across countries. Several party-family series rise during the 1990s, particularly CHR, ECO, and SOC in Austria and Germany; a comparable increase is not apparent in NAT. The size and timing of changes vary by country and family.\nThe Swiss CHR and ECO series also appear to differ from the corresponding patterns in other countries. The direction and timing of these changes vary within the period, rather than forming one uniform trajectory."
+    "objectID": "reading.html",
+    "href": "reading.html",
+    "title": "Reading & Reflections",
+    "section": "",
+    "text": "Here, I share ideas that interest or bother me, the questions they raise, and how they connect cto my research and broader interests."
+  },
+  {
+    "objectID": "reading.html#notes",
+    "href": "reading.html#notes",
+    "title": "Reading & Reflections",
+    "section": "Notes",
+    "text": "Notes\nNew notes will appear here."
   }
 ]
