@@ -1,0 +1,104 @@
+---
+title: "Junhui Park | Research Portfolio"
+toc: false
+resources:
+  - cv.pdf
+format:
+  html:
+    include-in-header:
+      text: |
+        <style>
+        .portfolio-home { text-align: left; }
+        .portfolio-home .home-cover {
+          display: block;
+          width: 100%;
+          height: clamp(280px, 40vw, 560px);
+          object-fit: cover;
+          border-radius: 12px;
+          margin-bottom: 2rem;
+        }
+        .portfolio-home .home-links p {
+          display: flex;
+          flex-wrap: wrap;
+          gap: 0.65rem;
+          margin: 1.25rem 0 2rem;
+        }
+        .portfolio-home .home-links a {
+          display: inline-block;
+          padding: 0.5rem 0.95rem;
+          border: 1px solid #52715a;
+          border-radius: 6px;
+          color: #254e3c;
+          text-decoration: none;
+        }
+        .portfolio-home .home-links a:hover {
+          background-color: #e5eddd;
+        }
+        .portfolio-home .home-links a:focus-visible {
+          outline: 3px solid #52715a;
+          outline-offset: 3px;
+        }
+        .portfolio-home .home-interests {
+          display: block;
+          width: 100%;
+          margin: 2rem 0;
+          padding: 1.5rem;
+          border-radius: 12px;
+          background-color: #e5eddd;
+          color: #263c32;
+        }
+        .portfolio-home .home-interests h2 {
+          margin-top: 0;
+          padding-bottom: 0;
+          border-bottom: none;
+          color: #254e3c;
+          font-size: 1.4rem;
+          font-weight: 700;
+        }
+        .portfolio-home .home-interests .methods-heading {
+          margin-top: 1.6rem;
+        }
+        .portfolio-home .home-interests p:last-child {
+          margin-bottom: 0;
+        }
+        </style>
+---
+
+:::: {.portfolio-home}
+
+<img src="profile.jpeg" class="home-cover" alt="">
+
+I'm Junhui Park, currently completing an MA in Sociology – European Societies at Freie Universität Berlin.
+
+I have over six years of experience in environmental policy and international cooperation at the Korea Environment Institute (KEI) and the United Nations Environment Programme (UNEP). My experience spans policy research, intergovernmental processes, and international project coordination.
+
+Here, I share my empirical research notes, data analysis projects, and reading notes.
+
+::: {.home-links}
+
+[CV](cv.pdf)
+[LinkedIn](https://www.linkedin.com/in/junhui-park-3a9761114)
+[GitHub](https://github.com/joon-84)
+
+:::
+
+::: {.home-interests}
+
+## Research interests
+
+My research centres on a key question: **How can ambitious climate policy become and remain politically feasible?**
+
+I am particularly interested in how civic engagement can strengthen democratic responsiveness in climate policymaking.
+
+**Areas of interest:** Political sociology; climate politics; democratic and electoral responsiveness; party politics; participatory democracy; civic engagement.
+
+## Methods and tools {.methods-heading}
+
+- Quantitative analysis in R, including dictionary-based text analysis, regression analysis, and multilevel modelling.
+- Qualitative framing analysis.
+
+:::
+
+[Explore my research →](research.qmd)
+
+::::

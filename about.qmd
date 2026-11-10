@@ -1,0 +1,34 @@
+---
+title: "Junhui Park"
+toc: false
+about:
+ template: jolla
+ links:
+  - icon: file-earmark-pdf
+    text: CV
+    href: cv.pdf
+  - icon: linkedin
+    text: Linkedin
+    href: https://www.linkedin.com/in/junhui-park-3a9761114
+  - icon: github
+    text: GitHub
+    href: https://github.com/joon-84
+---
+
+::: {.about-text}
+
+I'm Junhui Park, currently completing an MA in Sociology - European Societies at Freie Universität Berlin. My research interests include political sociology, climate politics, party politics, and civic engagement. I use this website to share my empirical research notes, data analysis projects, and reading notes.
+
+## Background
+
+- MA candidate in Sociology - European Sociology at Freie Universität Berlin.
+- Environmental policy and international cooperation professional with over six years of experience at the Korea Environment Institute (KEI) and the United Nations Environment Programme (UNEP), spanning policy research, intergovernmental processes, and international project coordination.
+
+## Research interests
+- My research centres on a key question: How can ambitious climate policy become and remain politically feasible? I am particularly interested in how civic engagement can strengthen democratic responsiveness in climate policymaking.
+
+## Methods and tools
+- quantitative analysis in R, including dictionary-based text analysis, regression analysis and multilevel modelling.
+- qualitative framing analysis.
+
+:::

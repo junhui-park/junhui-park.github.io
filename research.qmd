@@ -1,0 +1,25 @@
+---
+title: "Research"
+---
+
+## Environmental protection in party manifestos
+
+**Research question:**
+How did emphasis on environmental protection in election manifestos vary across selected party families and countries between 1940 and 2020?
+
+**Data:**
+- Manifesto Project dataset
+- Outcome: per501 (the percentage of manifesto quasi-sentence coded as Environmental Protection)
+- Sample: 495 manifesto observations
+
+**Methods:**
+- Descriptive comparisons across countries and party families
+- Time-series visualisations by country and party family
+
+**Scope:**
+- Countries: Austria, France, Germany, the Netherlands, and Switzerland
+- Period: election years from 1940 to 2020
+- Party families: ECO, SOC, CHR, LIB, and NAT
+- Descriptive and exploratory analysis; no causal inference
+
+[Read the research note ->](manifesto.qmd)

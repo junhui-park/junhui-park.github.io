@@ -1,0 +1,32 @@
+/* css styles */
+.home-layout {
+ display: grid;
+ grid-template-columns: 1fr;
+ gap: 3rem;
+ align-items: start;
+ margin-top: 2rem;
+}
+
+.home-interests {
+ background-color: #e5eddd;
+ padding: 1.5rem;
+ border-radius: 12px;
+}
+
+.home-interests h2 {
+ margin-top: 0;
+ font-size: 1.3rem;
+ border-bottom: none;
+}
+
+@media (max-width: 768px) {
+ .home-layout {
+  grid-template-columns: 1fr;
+ }
+}
+
+
+.about-text {
+width: 100%;
+text-align: left;
+}
