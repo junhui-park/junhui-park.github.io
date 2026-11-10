@@ -1,11 +1,14 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
   resources:
     - cv.pdf
 
 website:
   title: "Junhui Park"
+  site-url: https://junhui-park.github.io
   navbar:
     left:
       - href: index.qmd
